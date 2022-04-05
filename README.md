@@ -1,8 +1,6 @@
 Using Compound Smart Contract with ethers.js
 
-Typescript + next.js
-
-BoilerPlate: https://github.com/NoahZinsmeister/web3-react/blob/main/packages/example-next/connectors/metaMask.ts
+Typescript + next.js + ethers + GraphQL
 
 CONFIGURE ENV:
 NEXT_PUBLIC_MORALIS_KOVAN_NODEURL=.....
