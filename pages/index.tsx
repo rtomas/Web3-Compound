@@ -126,7 +126,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>Compound App</h1>
-        <p className={styles.description}>Interact with your cDAI smart contract.</p>
+        <p className={styles.description}>Interact with cDAI smart contract.</p>
         {(state.connectButton || !state.hasMetaMask) && (
           <Login
             connectButton={state.connectButton}
