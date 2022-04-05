@@ -1,4 +1,17 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Using Compound Smart Contract with web3-react (v8 beta) :)
+
+Typescript + next.js
+
+BoilerPlate: https://github.com/NoahZinsmeister/web3-react/blob/main/packages/example-next/connectors/metaMask.ts
+
+CONFIGURE ENV:
+NEXT_PUBLIC_MORALIS_KOVAN_NODEURL=.....
+NEXT_PUBLIC_APIGraphQLCompound=https://api.thegraph.com/subgraphs/name/juanigallo/cdai-kovan-subgraph
+
+Todo list
+
+- Implement Sass
+- Improve return dialogs. (delete alerts)
 
 ## Getting Started
 
