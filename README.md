@@ -1,4 +1,4 @@
-Using Compound Smart Contract with web3-react (v8 beta) :)
+Using Compound Smart Contract with ethers.js
 
 Typescript + next.js
 
